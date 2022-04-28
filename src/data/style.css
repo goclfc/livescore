@@ -1,0 +1,29 @@
+.match_wrapper {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.match {
+    text-align: center;
+}
+.match img {
+    width: 30px;
+}
+.match_id{
+    width: 50px;
+}
+.match_team {
+    color: rgb(255, 255, 255) !important;;
+}
+.match_score {
+    width: 50px;
+}
+.team_home {
+    text-align: right!important;
+}
+.team_away {
+    text-align: left;
+}
+body {
+    background-color: black;
+}
