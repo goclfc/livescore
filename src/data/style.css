@@ -27,3 +27,6 @@
 body {
     background-color: black;
 }
+.match_date {
+    width: 400px;
+}
